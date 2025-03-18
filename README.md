@@ -49,3 +49,15 @@ creamos el archivo README.md
 
 sincronizamos
 
+
+Instalacion de matplotlib y ejecucion de line.py
+pip3 install matplotlib
+python code/charts/line.py   
+
+<!-- problemas para ejecutar line.py -->
+
+descarga y ejecucion de factorial guardado en src/factorial
+ejemplo:
+python src/factorial.py 10
+Factorial  10 ! es  3628800
+
