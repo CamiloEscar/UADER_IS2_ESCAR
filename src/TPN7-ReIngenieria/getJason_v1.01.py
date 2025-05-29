@@ -11,7 +11,7 @@ Si no se especifica una clave, se usa "token1" por defecto.
 Aplica el patrón Singleton y controla todos los errores de forma segura.
 
 Uso:
-    python getJason_v1.01.py archivo.json [clave]
+    python getJason_v1.01.py sitedata.json [clave]
     python getJason_v1.01.py -v
 """
 
